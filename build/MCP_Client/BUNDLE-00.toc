@@ -1,0 +1,3 @@
+([('MCP Client',
+   '/Users/balajirameshbabu/MCP/py_mcp_client/dist/MCP Client',
+   'EXECUTABLE')],)
