@@ -38,7 +38,7 @@ A modern client application for interacting with MCP servers and local LLM model
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mcp-client.git
+git clone https://github.com/ItsMistahJi/mcp-client.git
 cd mcp-client
 ```
 
@@ -79,15 +79,3 @@ The installers will be created in the `installer` directory.
 3. Select an LLM model from the dropdown
 4. Use the "Discover Servers" button to find MCP servers
 5. Start chatting with the selected LLM model
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
